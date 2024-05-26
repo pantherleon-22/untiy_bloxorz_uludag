@@ -1,54 +1,28 @@
+bu oyun Leonardo Euler'e atfen yapılmıştır oyunda oyuncunun oynadığı 7 bölüm vardır ve en sonda bitiş ekranı gelir Puanlama sistemi oyunun easter egg kısmıdır
 
-# Bloxorz Game
+da her bölümde puan
+1.bölüm: 0.3883257142857143
+2.bölüm: 0.7766514285714285
+3.bölüm: 1.553302857142857
+4.bölüm: 3.106605714285714
+5.bölüm: 6.213211428571428
+6.bölüm: 12.426422857142857
+puan artarken 7.bölümde -21.74624 azalacak ve sonuçta 
 
-This is a remake of the classic puzzle game, Bloxorz, built using Unity 3D and C#. 
+son ekran: 2.71828 olucak bu sayı euler sayısına eşittir
 
-The game challenges players to maneuver a 1-by-1-by-2 block through a series of mazes and obstacles to reach a designated endpoint in a particular block orientation. The block is controlled by the arrow keys where it rolls in the direction given by the input.
+en son ekranda könisberg şehrinin görüntüsü ortaya çıkacak euler könisberg de 7 düğüm problemini çözümüne atfen bundan dolayı her bölüm bir köprüyü temsil etmektedir 
 
-This game extends the classic Bloxorz by adding new types of traps and enemy blocks. Additionally, this version also features time-sensitive reaction based levels alongside the classic puzzle based levels.
-## Features
-
-- 3D Graphics: The game features custom-designed 3D graphics that are sure to immerse players in the world of Bloxorz.
-
-- Arrow Key Controls: The game's controls are designed to be easy to use, with arrow keys allowing players to manipulate the block in a variety of ways.
-
-- Challenging Levels: The game features 20 challenging levels that will test players' spatial awareness, logical thinking, and problem-solving skills.
-
-- Puzzle-Based Gameplay: The levels feature different types of puzzles, including difficult to solve mazes and skill/timing-based puzzles that require perfect timing and reflexes.
-
-- Enemies and Traps: The game includes enemies and traps that players must avoid in order to complete certain levels.
+bu son ekranda latince Non refert quid amiseris, sed quid significet yazısı çıkacak bunun anlamı Önemli olan kaybettiklerin değil neyi temsil ettiğidir burada oyuncunun aldığı puanın matematikçi euler için yapıldığı anlatılmaya çalışılmaktadır
 
 
-## Getting Started
+bölümler blok hareketinin sağ sol dik ve yatay konumda durması sonucu
+yer değiştirerek winspota girmesi sonucunda bi sonraki bölüme geçer 
+burada oynayan kişi her adımını hesaplaması gerekmektedir yatayda bir dikeyde 2 birim olduğu için her attığı adımda bunlara dikkat ederek sonraki adımı öngörmesi için kafasında hesaplamalıdır bazen ilerlediğinde 
+bazı kısımlara yatay veya dikey olarak girmesi gerektiği için daha önceki yaptığı işlemi yapması gerekecek burada kullanıcının hafıza yeteneği ölçülür dikkatin ölçümü için düşman nesneleri vardır ve her oyuncu düşmana değdiği an düşman kübü küçük küp parçalarına ayrılır ve sonra o düşman nesnesi yok olur ama oyuncunun da bir canı gitmiş olur 
+bazı bölümlerde bazı butonlara dik olarak değmesi gerekmektedir bu köprü nesnelerini harekete geçirir bu sayede yukarıda bahsedilen hesaplama yeteneğini pekiştirir 
 
-### Prerequisites
-- Unity 3D (version 2019 or later)
-- Visual Studio (version 2019 recomended)
-- Works best on Windows
-
-### Installation
-- Clone the repository using the following command:
-```
-git clone https://github.com/SaikrishnaTadepalli/Bloxorz-Game.git
-```
-- Open the project in Unity 3D.
-- Build and run the project.
-## Usage
-
-- Start the game by clicking on the "Play" button.
-
-- Navigate through the levels by manipulating the block using the arrow keys.
-
-- Reach the designated endpoint to complete the level and progress to the next one.
-
-- Avoid enemies and traps to progress through certain levels.
-
-- Solve the puzzles in each level to progress.
+oyunda gerilim müziğinin seçilme nedeni ise bu oyun büyük ölçüde bloxorz oynundan esinlenilmiş olmasıdır
 
 
-## Credits
 
-This project was inspired by the classic game, [Bloxorz](https://www.coolmathgames.com/0-bloxorz).
-## License
-
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
