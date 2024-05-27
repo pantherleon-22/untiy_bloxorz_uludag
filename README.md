@@ -31,4 +31,7 @@ bazı bölümlerde bazı butonlara dik olarak değmesi gerekmektedir bu köprü 
 oyunda gerilim müziğinin seçilme nedeni ise bu oyun büyük ölçüde bloxorz oynundan esinlenilmiş olmasıdır
 
 
+https://studio.youtube.com/channel/UC3IeQFD4WsCJRMqSMMssDlg/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
+
+
 
