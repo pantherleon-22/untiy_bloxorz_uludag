@@ -3,7 +3,7 @@ OYUN MANTIĞI
 
 
 
-bu oyun Leonardo Euler'e atfen yapılmıştır oyunda oyuncunun oynadığı 7 bölüm vardır ve en sonda bitiş ekranı gelir Puanlama sistemi oyunun easter egg kısmıdır
+bu oyun Leonhard Euler'e atfen yapılmıştır oyunda oyuncunun oynadığı 7 bölüm vardır ve en sonda bitiş ekranı gelir Puanlama sistemi oyunun easter egg kısmıdır
 
 da her bölümde puan
 1.bölüm: 0.3883257142857143
