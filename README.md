@@ -1,3 +1,5 @@
+
+OYUN MANTIĞI
 bu oyun Leonardo Euler'e atfen yapılmıştır oyunda oyuncunun oynadığı 7 bölüm vardır ve en sonda bitiş ekranı gelir Puanlama sistemi oyunun easter egg kısmıdır
 
 da her bölümde puan
@@ -18,6 +20,7 @@ bu son ekranda latince Non refert quid amiseris, sed quid significet yazısı ç
 ![image](https://github.com/pantherleon-22/untiy_bloxorz_uludag/assets/123326812/b5dbdd15-9477-48ce-b36d-fd521da5afba)
 
 
+ÖZELLİKLER:
 
 bölümler blok hareketinin sağ sol dik ve yatay konumda durması sonucu
 yer değiştirerek winspota girmesi sonucunda bi sonraki bölüme geçer 
@@ -30,6 +33,7 @@ bazı bölümlerde bazı butonlara dik olarak değmesi gerekmektedir bu köprü 
 
 oyunda gerilim müziğinin seçilme nedeni ise bu oyun büyük ölçüde bloxorz oynundan esinlenilmiş olmasıdır
 orjinal oyunun tasarımı şu şekildedir:
+
 ![image](https://github.com/pantherleon-22/untiy_bloxorz_uludag/assets/123326812/8b6462ea-5771-4d05-bf5e-a32de3e5e112)
 
 
