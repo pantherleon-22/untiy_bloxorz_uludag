@@ -15,12 +15,18 @@ en son ekranda könisberg şehrinin görüntüsü ortaya çıkacak euler könisb
 
 bu son ekranda latince Non refert quid amiseris, sed quid significet yazısı çıkacak bunun anlamı Önemli olan kaybettiklerin değil neyi temsil ettiğidir burada oyuncunun aldığı puanın matematikçi euler için yapıldığı anlatılmaya çalışılmaktadır
 
+![image](https://github.com/pantherleon-22/untiy_bloxorz_uludag/assets/123326812/b5dbdd15-9477-48ce-b36d-fd521da5afba)
+
+
 
 bölümler blok hareketinin sağ sol dik ve yatay konumda durması sonucu
 yer değiştirerek winspota girmesi sonucunda bi sonraki bölüme geçer 
 burada oynayan kişi her adımını hesaplaması gerekmektedir yatayda bir dikeyde 2 birim olduğu için her attığı adımda bunlara dikkat ederek sonraki adımı öngörmesi için kafasında hesaplamalıdır bazen ilerlediğinde 
 bazı kısımlara yatay veya dikey olarak girmesi gerektiği için daha önceki yaptığı işlemi yapması gerekecek burada kullanıcının hafıza yeteneği ölçülür dikkatin ölçümü için düşman nesneleri vardır ve her oyuncu düşmana değdiği an düşman kübü küçük küp parçalarına ayrılır ve sonra o düşman nesnesi yok olur ama oyuncunun da bir canı gitmiş olur 
 bazı bölümlerde bazı butonlara dik olarak değmesi gerekmektedir bu köprü nesnelerini harekete geçirir bu sayede yukarıda bahsedilen hesaplama yeteneğini pekiştirir 
+
+örnek bölüm: ![image](https://github.com/pantherleon-22/untiy_bloxorz_uludag/assets/123326812/d564c2cc-b6b6-4482-8bea-8a981582a5d3)
+
 
 oyunda gerilim müziğinin seçilme nedeni ise bu oyun büyük ölçüde bloxorz oynundan esinlenilmiş olmasıdır
 
