@@ -40,6 +40,8 @@ bu sırada skor değeri euler sayısına eşit olur ve oyundaki 7 bölümü tems
 
 
 
+## Youtube linki:
+
 https://studio.youtube.com/channel/UC3IeQFD4WsCJRMqSMMssDlg/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
 
 
