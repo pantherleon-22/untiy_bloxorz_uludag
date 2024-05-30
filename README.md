@@ -17,7 +17,10 @@ Oyuncular, bir bloku yönetiyor ve her hamlede blok ya yatay ya da dikey olarak 
 
 
 
-### Düşman Nesneleri ve Engeller: Oyuncular düşman nesnelerinden kaçınmak zorunda ve bazı bölümlerde belirli butonlara basarak köprü gibi nesneleri harekete geçirmeleri gerekiyor.
+### Düşman Nesneleri ve Engeller: Oyuncular düşman nesnelerinden kaçınmak zorunda eğer düşmana temas ederse bloklar küçük bloklara ayrılıyor ardından oyuncunun canı 1 birim azalıyor ve bazı bölümlerde belirli butonlara basarak köprü gibi nesneleri harekete geçirmeleri gerekiyor.
+
+![image](https://github.com/pantherleon-22/untiy_bloxorz_uludag/assets/123326812/a25ea062-020d-4075-96e4-84babd3e0d7d)
+
 Müzik: Oyun, gerilimi artıran müziklerle donatılmış ki bu da oyuncuların dikkatini ve strateji geliştirme yeteneğini pekiştirmeyi amaçlıyor.
 
 ### Görsel Tasarım
