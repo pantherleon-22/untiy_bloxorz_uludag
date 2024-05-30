@@ -32,7 +32,7 @@ Oyunun görsel tasarımı, orijinal Bloxorz oyunundan esinlenmiş ve oyuncuları
 
 
 Son Ekran: Oyunda son bölüm tamamlandığında, Könisberg şehrinin görüntüsü beliriyor ve Latince "Non refert quid amiseris, sed quid significet" yani "Önemli olan kaybettiklerin değil, neyi temsil ettiğidir" ifadesi çıkıyor.
-
+bu sırada skor değeri euler sayısına eşit olur ve oyundaki 7 bölümü temsilen Könisberg şehrinin 7 köprüsü arka planda belirir
 ![image](https://github.com/pantherleon-22/untiy_bloxorz_uludag/assets/123326812/b5dbdd15-9477-48ce-b36d-fd521da5afba)
 
 
