@@ -37,7 +37,10 @@ bu sırada skor değeri euler sayısına eşit olur ve oyundaki 7 bölümü tems
 
 
 
+oyun dosyası büyük olması sebebi ile oyunun tam halinin bulunduğu link
 
+### ONEDRIVE LINKI
+https://drive.google.com/drive/folders/1TEkKChcsL0adLrKb6AolbXcTncIUE5bS?usp=sharing
 
 
 ## Youtube linki:
